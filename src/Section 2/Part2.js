@@ -52,7 +52,7 @@ export default function Part2() {
                 <p className="visual_number1">{val}</p>
                 <div className="scroller">
                     <span style={{
-                        backgroundColor: "#c86aee",
+                        backgroundColor: "#A594FD",
                         display: "block",
                         borderRadius: "3px",
                         marginTop: "5px",

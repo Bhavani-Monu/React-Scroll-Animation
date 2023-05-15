@@ -31,7 +31,9 @@
 }
 
 .visual_number2{
-    position: relative;
+    position: absolute;
+    bottom: 40px;
+    margin-right: 1%;
 }
 
 
