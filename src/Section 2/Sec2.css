@@ -1,0 +1,11 @@
+.sec2_content{
+    width: 95%;
+    position: sticky;
+    top:0;
+    background-color: black;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 100%;
+}
