@@ -10,8 +10,10 @@ export default function Sec2() {
    
     return(
         <div className="sec2_content">
+            <div className="sec2_content1">
             <Part1 />
             <Part2 />
+            </div>
         </div>
     )
 }
